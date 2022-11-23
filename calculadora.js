@@ -1,0 +1,14 @@
+var a=7;
+var b=4;
+suma = a+b;
+console.log("el resultado de la suma es:",suma);
+resta = a-b;
+console.log("el resultado de la resta es:",resta);
+multiplicacion = a*b;
+console.log("el resultado de la multiplicación es:",multiplicacion);
+division = a/b;
+console.log("el resultado de la división es:",division);
+cuadrado = a*a;
+console.log("el resultado del cuadrado es:",cuadrado);
+cubo = a*a*a;
+console.log(cubo);
